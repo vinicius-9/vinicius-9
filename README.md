@@ -1,4 +1,4 @@
-#Olá! Sou o Vinicius, estudante de Análise e Desenvolvimento de Sistemas!
+# estudante de Análise e Desenvolvimento de Sistemas!
 
 
 
