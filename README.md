@@ -1,25 +1,23 @@
-# 👋 Estudante de Análise e Desenvolvimento de Sistemas!
+<h1 align="center">👋 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas</h1>
 
-Bem-vindo ao meu perfil do GitHub!  
-Aqui compartilho um pouco da minha jornada de aprendizado, projetos e experiências na área de tecnologia 💻
-
----
-
-### 🚀 Tecnologias que estou aprendendo
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="60" height="60"/>
+<p align="center">
+  💻 Explorando o universo do desenvolvimento com <strong>C#</strong> e <strong>.NET</strong>  
+  <br>✨ Buscando sempre aprender e evoluir como desenvolvedor backend.
 </p>
 
 ---
 
-### 📈 Sobre mim
+<h3 align="center">🧠 Tecnologias & Ferramentas</h3>
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" alt="C#"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60" alt=".NET"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" alt="Git"/>
+</p>
 
 ---
 
----
-⭐ *Obrigado por visitar meu perfil!*
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" tar_
