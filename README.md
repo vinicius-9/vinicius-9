@@ -7,9 +7,8 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="80" height="80" alt="SQL Server" />
-</p>
+
 
 <p align="center">
-🔹 Foco em desenvolvimento com C#, .NET, SQL Server e versionamento com Git
+🔹 Foco em desenvolvimento com C#,NET e versionamento com Git
 </p>
