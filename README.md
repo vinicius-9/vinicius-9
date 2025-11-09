@@ -5,10 +5,11 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="80" height="80" alt=".NET" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" height="80" alt="PostgreSQL" />
   &nbsp;&nbsp;
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="80" alt="Git" />
+</p>
 
 <p align="center">
-🔹 Foco em desenvolvimento com C#,NET e versionamento com Git
+ 🔹 Foco em desenvolvimento com C#, .NET Core e PostgreSQL, versionamento com Git
 </p>
